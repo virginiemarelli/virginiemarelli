@@ -1,20 +1,12 @@
 ### Hi there 👋
 
-<!--
-**virginiemarelli/virginiemarelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on innovation in AI and data
+- 🌱 I’m currently learning architecture
+- 💬 Ask me about AI, ML, DL, MLOps, ethics & bias, analytics, solution architecture
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I lost my recovery codes so I had to recreate a new repo :( so my stats are now aweful
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-  <summary>GitHub Profile Stats 💻</summary>
+<summary>GitHub Profile Stats 💻</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="virginie's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=virginiemarelli&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
   <br/>
